@@ -1,25 +1,5 @@
-# Tên đề tài
-
 ![](https://docs.nativebase.io/img/minion.gif)
-
-## Hướng dẫn
-
-- [Hướng dẫn trả kết quả](/guide/submit)
-
-## Tài liệu
-
-- [Yêu cầu đề tài](/requirement)
-- [Cơ sở lý thuyết](/technology)
-- [Schemas](/schemas)
-
-## Quy trình, kế hoạch
-
-- [Scrum](/scrum)
-- [Phân công](/contributor)
-
-
-## Báo cáo
-
-- [Tuần 01](/reports/01.md)
-- [Tuần 02](/reports/02.md)
-- [Tuần 03](/reports/03.md)
+ 
+ ### 06/12/2021: Sprint 12
+ [meetint record](https://dutudn.sharepoint.com/sites/Group_PBL6Team/Shared%20Documents/General/Recordings/Sprint-20211206_192038-Meeting%20Recording.mp4?web=1)
+ [kanban](https://github.com/odanang/app/projects/1?fullscreen=true)
